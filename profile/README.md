@@ -1,0 +1,1 @@
+sQeeZ is an easy-to-read scripting language whose design squeezes standardised functionalities into an efficient format.
