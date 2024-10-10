@@ -1,4 +1,4 @@
-<img src="./slogan.png" alt="Slogan" style="width: 100%; height: auto;">
+<div align=center><img src="./slogan.png" alt="Slogan" style="width: 50%; height: auto;"></div>
 <p align=center>sQeeZ is a modern scripting language designed for users who prioritize simplicity, power, and flexibility in their coding projects. Its concise and efficient syntax enables developers to create clean, readable code that meets their specific needs. The language streamlines the development process, allowing users to implement complex functionalities with greater efficiency.</p>
 <br>
 
